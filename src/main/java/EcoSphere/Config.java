@@ -1,4 +1,4 @@
-package net.patrick.EcoSphere;
+package EcoSphere;
 
 import java.util.List;
 
